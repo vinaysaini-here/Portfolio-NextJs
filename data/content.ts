@@ -76,7 +76,7 @@ export const projects = [
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
     tags: ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
     liveUrl: "#",
-    githubUrl: "#"
+    githubUrl: "https://github.com/vinaysaini-here"
   },
   {
     title: "OpsPulse Dashboard",
@@ -86,7 +86,7 @@ export const projects = [
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
     tags: ["React", "Node.js", "WebSockets", "MongoDB"],
     liveUrl: "#",
-    githubUrl: "#"
+    githubUrl: "https://github.com/vinaysaini-here"
   },
   {
     title: "StudioFlow CMS",
@@ -96,7 +96,7 @@ export const projects = [
       "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
     tags: ["Next.js", "Tailwind", "Express", "REST API"],
     liveUrl: "#",
-    githubUrl: "#"
+    githubUrl: "https://github.com/vinaysaini-here"
   }
 ];
 
