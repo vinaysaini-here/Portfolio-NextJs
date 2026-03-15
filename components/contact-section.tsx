@@ -20,7 +20,7 @@ export function ContactSection() {
         <Reveal>
           <SectionHeading
             eyebrow="Contact"
-            title="Letâ€™s build something ambitious and beautifully engineered."
+            title="Let's build something ambitious and beautifully engineered."
             description="Share a product idea, collaboration, or freelance brief and start the conversation through this polished contact form."
             align="center"
           />

@@ -20,7 +20,7 @@ export const developer = {
   image:
     "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
   about:
-    "Vinay Saini is a passionate Full Stack Web Developer who enjoys crafting modern web applications, scalable systems, and elegant user interfaces. He blends strong engineering fundamentals with a product mindset to create fast, reliable, and delightful digital experiences."
+    "I am a passionate Full Stack Web Developer who enjoys crafting modern web applications, scalable systems, and elegant user interfaces. I blend strong engineering fundamentals with a product mindset to create fast, reliable, and delightful digital experiences."
 };
 
 export const navItems = [
@@ -102,19 +102,19 @@ export const projects = [
 
 export const journey = [
   {
-    year: "2021",
+    year: "2023",
     title: "Started the Development Journey",
     description:
       "Began building web interfaces and experimenting with frontend fundamentals, UI systems, and interactive experiences."
   },
   {
-    year: "2022",
+    year: "2024",
     title: "Expanded Into Full Stack Engineering",
     description:
       "Moved into backend development, APIs, and databases while shipping end-to-end applications with stronger architecture."
   },
   {
-    year: "2024",
+    year: "2025",
     title: "Focused on Scalable Product Development",
     description:
       "Delivered production-ready apps with clean codebases, reusable systems, and performance-first engineering decisions."
